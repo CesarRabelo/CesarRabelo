@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Software engineer since 2002
 - 🌱 I’m currently learning Python, GDPR, LGPD and Data Science.
 - 💬 Ask me about Project Manager, Products, SCRUM, Leardership, Growth, C#, SQL, and more... 
 <!--
